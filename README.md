@@ -1,4 +1,4 @@
-##REQUIREMENT FOR DEVELOPMENT##
+REQUIREMENT FOR DEVELOPMENT
 
 1. [GitHub Pages](https://pages.github.com/)
 2.  [Node 12.18.2 LTS (includes npm 6.14.5)](https://nodejs.org/en/download/)
