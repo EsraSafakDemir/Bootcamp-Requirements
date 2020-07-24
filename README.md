@@ -5,7 +5,8 @@
 3. JDK 11 (Choose one of the following)
     - [AdoptOpenJDK]( https://adoptopenjdk.net/installation.html)
     - [Installing OpenJDK 11 on Ubuntu 18.04](https://dzone.com/articles/installing-openjdk-11-on-ubuntu-1804-for-real)
-    - [Install OpenJDK 11](Windows)(https://docs.plm.automation.siemens.com/content/polarion/19.1/help/en_US/polarion_windows_installation/before_installation/install_openjdk_11.html)
+    - [Install OpenJDK 11]
+    (Windows)(https://docs.plm.automation.siemens.com/content/polarion/19.1/help/en_US/polarion_windows_installation/before_installation/install_openjdk_11.html)
     
 4. [Visual Studio Code](https://code.visualstudio.com/)
 5. [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-enterprise-java-developers)
