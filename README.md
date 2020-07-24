@@ -1,7 +1,7 @@
 **REQUIREMENT FOR DEVELOPMENT**
 
 1. [GitHub Pages](https://pages.github.com/)
-2.  [Node 12.18.2 LTS (includes npm 6.14.5)] https://nodejs.org/en/download/
+2.  [Node 12.18.2 LTS (includes npm 6.14.5)] (https://nodejs.org/en/download/)
 3. JDK 
     -AdoptOpenJDK ( https://adoptopenjdk.net/installation.html)
     -Installing OpenJDK 11 on Ubuntu 18.04 (https://dzone.com/articles/installing-openjdk-11-on-ubuntu-1804-for-real)
